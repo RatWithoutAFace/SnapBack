@@ -1,1 +1,1 @@
-Readme coming soon. [Click me!](https://github.com/RatWithoutAFace/SnapBack/releases/latest)
+Readme coming soon. [Click me to open latest release!](https://github.com/RatWithoutAFace/SnapBack/releases/latest)
